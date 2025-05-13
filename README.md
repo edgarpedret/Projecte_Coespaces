@@ -11,3 +11,6 @@ Tot i que després no vam fer cap simulador, va ser més aviat un joc normal.
 
 Documentació Projecte:
 [Documentació](Informe_Coespaces.pdf)
+
+El enllaç del joc esta a la pàgina web de l'institut és aquest:
+[Coespaces Projecte](https://edu.cospaces.io/JVN-RGN)
